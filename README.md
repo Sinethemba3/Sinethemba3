@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sinethemba! <br/><a href="">Programmer</a>, <a href="">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Sinethemba Nxavipi <br/><a href="">Programmer</a>, <a href="">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
