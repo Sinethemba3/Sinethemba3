@@ -90,7 +90,7 @@ I'm **Sinethemba Nxavipi**, a **Full-Stack Developer** and **Cybersecurity Profe
 
 # ⭐ **Featured Portfolio Projects**
 
-### 🚀 ProjectS: NOTHING YET.
+### 🚀 Projects: NOTHING YET.
 (Uploading soon…)
 
 ---
