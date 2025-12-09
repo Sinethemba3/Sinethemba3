@@ -1,56 +1,119 @@
-<!-- Hologram Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/7U6xA1G.gif" width="100%" alt="Hologram Banner - Sinethemba Nxavipi"/>
-</p>
-
+<!-- Typing Animation -->
 <h1 align="center">
-  <b>Sinethemba Nxavipi</b>  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=I'm+Sinethemba+Nxavipi;Full+Stack+Developer;Cybersecurity+Professional;Ethical+Hacking+Enthusiast;Welcome+to+my+GitHub+Universe" alt="Typing SVG"/>
 </h1>
 
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Programmer;Cybersecurity+Professional;Full+Stack+Developer;PHP+%7C+MySQL+%7C+JavaScript;Turning+Ideas+Into+Solutions..." />
-</p>
-
-<p align="center">
-  <a href="https://your-cv-link.com" download>
-    <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=icloud&logoColor=white"/>
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sinethemba3.Sinethemba3&color=blue" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 **Who Am I?**
 
-I’m a dedicated **Software Developer** and **Cybersecurity Professional** passionate about:
+I'm **Sinethemba Nxavipi**, a **Full-Stack Developer** and **Cybersecurity Professional** passionate about:
 
-- Building secure full-stack applications  
-- Protecting systems through security best-practices  
-- Crafting modern solutions using clean code  
-- Web development (PHP, MySQL, JavaScript)  
+- 🛡 Securing systems  
+- 💻 Building applications  
+- 🔍 Analyzing vulnerabilities  
+- 🧠 Learning modern tech  
+- 💼 Developing real-world solutions  
 
----
-
-## 🚀 Skills
-
-### 🧠 Programming Languages  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙ Frameworks & Tools  
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔥 My workflow blends **PHP**, **JavaScript**, **MySQL**, **network security**, and everything **cyber**.
 
 ---
 
-## 💻 Tech Stack  
-```yaml
-Backend: PHP • MySQL  
-Frontend: HTML • CSS • JavaScript  
-Security: Network Security • Ethical Practices  
-Tools: Git • Linux • Composer • VSCode  
+# 🧰 **Tech Arsenal**
+
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### **Frameworks | Platforms | Tools**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### **Cybersecurity Suite**
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-5027B1?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
+
+---
+
+# 🧠 **Skills Snapshot**
+
+<p>
+  <img src="https://img.shields.io/badge/Full_Stack_Development-0057FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-DA0037?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Development-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database_Architecture-00ACC1?style=for-the-badge"/>
+</p>
+
+---
+
+# 🏆 **New Achievement Wall**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sinethemba3&theme=matrix&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
+# 📈 **GitHub Performance Dashboard**
+
+<div align="center">
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Sinethemba3&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=Sinethemba3&theme=radical&hide_border=true"/>
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinethemba3&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# ⭐ **Featured Portfolio Projects**
+
+### 🚀 ProjectS: NOTHING YET.
+(Uploading soon…)
+
+---
+
+# 📜 **Certifications**
+
+- ✔ Cybersecurity Essentials  
+- ✔ Introduction to Cybersecurity  
+- ✔ Networking Fundamentals  
+
+---
+
+# 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="#"><img width="40" src="https://skillicons.dev/icons?i=facebook"/></a>
+  <a href="#"><img width="40" src="https://skillicons.dev/icons?i=twitter"/></a>
+  <a href="#"><img width="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="#"><img width="40" src="https://skillicons.dev/icons?i=instagram"/></a>
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 "Secure the system. Build the future." 🚀</b>
+</p>
