@@ -12,7 +12,7 @@
 
 # 🚀 **Who Am I?**
 
-I'm **Sinethemba Nxavipi**, a **Full-Stack Developer** and **Cybersecurity Professional** passionate about:
+I'm **Sinethemba Nxayiphi**, a **Full-Stack Developer** and **Cybersecurity Professional** passionate about:
 
 - 🛡 Securing systems  
 - 💻 Building applications  
@@ -90,8 +90,8 @@ I'm **Sinethemba Nxavipi**, a **Full-Stack Developer** and **Cybersecurity Profe
 
 # ⭐ **Featured Portfolio Projects**
 
-### 🚀 Projects: NOTHING YET.
-(Uploading soon…)
+### 🚀 Projects:
+1. www.afikam.co.za
 
 ---
 
