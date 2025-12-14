@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=I'm+Sinethemba+Nxavipi;Full+Stack+Developer;Cybersecurity+Professional;Ethical+Hacking+Enthusiast;Welcome+to+my+GitHub+Universe" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=I'm+Sinethemba+Nxayiphi;Full+Stack+Developer;Cybersecurity+Professional;Ethical+Hacking+Enthusiast;Welcome+to+my+GitHub+Universe" alt="Typing SVG"/>
 </h1>
 
 <!-- Visitor Counter -->
@@ -91,7 +91,7 @@ I'm **Sinethemba Nxayiphi**, a **Full-Stack Developer** and **Cybersecurity Prof
 # ⭐ **Featured Portfolio Projects**
 
 ### 🚀 Projects:
-1. www.afikam.co.za
+1. 🔗www.afikam.co.za
 
 ---
 
