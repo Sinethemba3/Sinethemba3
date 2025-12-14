@@ -91,7 +91,7 @@ I'm **Sinethemba Nxayiphi**, a **Full-Stack Developer** and **Cybersecurity Prof
 # ⭐ **Featured Portfolio Projects**
 
 ### 🚀 Projects:
-1. # www.afikam.co.za
+1.  www.afikam.co.za
 
 ---
 
